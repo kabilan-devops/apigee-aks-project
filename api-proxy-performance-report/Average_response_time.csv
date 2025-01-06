@@ -1,0 +1,4 @@
+﻿organization,environment,property,value
+"apigee-trail-a2","eval","Average time","8.6"
+"apigee-trail-a2","eval","Average proxy time","1.23"
+"apigee-trail-a2","eval","Average target time","7.38"

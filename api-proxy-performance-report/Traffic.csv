@@ -1,0 +1,5 @@
+﻿organization,environment,property,value
+"apigee-trail-a2","eval","Total traffic","40,571"
+"apigee-trail-a2","eval","Traffic success","7,449"
+"apigee-trail-a2","eval","Traffic error","33,122"
+"apigee-trail-a2","eval","Average tps","0.47"
